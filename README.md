@@ -1,5 +1,7 @@
 # 📚 Shards of the Library
 
+🔗 [📢 Latest Update – 2025-08-30](UpdateNotes/08302025.md)
+
 **Shards of the Library** is a single-player **story-driven RPG simulation** developed in Unreal Engine.  
 The game combines farm-life, exploration, crafting, and mysterious story quests hidden within a magical library.  
 
